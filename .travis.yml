@@ -3,6 +3,6 @@ arch:
     - ppc64le
 language: node_js
 node_js:
-  - 1.x
+  - 13.x
  # - 0.8
 #- 0.6
